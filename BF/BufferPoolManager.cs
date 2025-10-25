@@ -40,6 +40,7 @@ namespace BufferPool.BF
         {
             lock (globalLock)
             {
+                //if page is already in buffer
                 if (pageTable.TryGetValue(pageId, out int frameIndex))
                 {
                     var page = frames[frameIndex];
@@ -106,13 +107,13 @@ namespace BufferPool.BF
         {
             lock (globalLock)
             {
-                newPageId = diskManager.AllocatePage();
                 if (!FindVictimFrame(out int victim))
                 {
                     // no frame available
                     return null;
                 }
-
+                //if there is a victim page, we need to allocate a new page
+                newPageId = diskManager.AllocatePage();
                 var victimPage = frames[victim];
                 if (victimPage.PageId != -1)
                 {
