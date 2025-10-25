@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\BufferPool\\BufferPool.csproj": {}
+    "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\bufferpool\\BufferPool.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\BufferPool\\BufferPool.csproj": {
+    "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\bufferpool\\BufferPool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\BufferPool\\BufferPool.csproj",
+        "projectUniqueName": "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\bufferpool\\BufferPool.csproj",
         "projectName": "BufferPool",
-        "projectPath": "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\BufferPool\\BufferPool.csproj",
+        "projectPath": "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\bufferpool\\BufferPool.csproj",
         "packagesPath": "C:\\Users\\PHOENIX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\BufferPool\\obj\\",
+        "outputPath": "C:\\Users\\PHOENIX\\Desktop\\BufferPoolDB\\bufferpool\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

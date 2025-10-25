@@ -1,0 +1,15 @@
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\bin\Debug\net9.0\BufferPool.exe
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\bin\Debug\net9.0\BufferPool.deps.json
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\bin\Debug\net9.0\BufferPool.runtimeconfig.json
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\bin\Debug\net9.0\BufferPool.dll
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\bin\Debug\net9.0\BufferPool.pdb
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.AssemblyInfoInputs.cache
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.AssemblyInfo.cs
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.csproj.CoreCompileInputs.cache
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.sourcelink.json
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.dll
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\refint\BufferPool.dll
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.pdb
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\BufferPool.genruntimeconfig.cache
+C:\Users\PHOENIX\Desktop\BufferPoolDB\bufferpool\obj\Debug\net9.0\ref\BufferPool.dll
